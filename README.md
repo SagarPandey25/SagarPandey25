@@ -19,7 +19,6 @@
 
 - 🔭 I'm currently working on **Kisan Mitra**, a smart agriculture app for farmers
 - 👯 I'm looking to collaborate on open-source **Android & Jetpack Compose** projects
-- 🤝 I'm looking for help with **Clean Architecture, testing, and Play Store publishing**
 - 🌱 I'm currently learning **Kotlin Multiplatform, advanced Compose, and CI/CD**
 - 💬 Ask me about **Kotlin, MVVM, Retrofit, Room, and Firebase**
 - ⚡ Fun fact: I love building apps that solve real problems for real people
